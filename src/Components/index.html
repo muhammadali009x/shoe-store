@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #box{
+        width: 400px;
+        height: 600px;
+        position: absolute;
+        margin-left: 900px;
+    }
+    #dv{
+        width: 400px;
+        height: 600px;
+        position: absolute;
+        position: fixed;
+    }
+</style>
+<body>
+    <img src="https://i.redd.it/668i78eqxsw31.jpg" id="dv"/>
+    <img src="https://image.shutterstock.com/z/stock-photo-side-view-portrait-of-a-young-muscular-man-standing-in-studio-287456627.jpg" id="box"/>
+    <script>
+        var elem = document.querySelector("#box");
+        elem.animate([
+            {transform: 'translate(0,0)'},
+            {transform: 'translate(-600px,0)'},
+        ],{
+            duration: 4000,
+        })
+        elem.addEventListener("mouseup", ()=>{
+            animatedElem.pause();
+        })
+
+        // document.addEventListener("mousedown", ()=>{
+        //     animatedElem.play();
+        // })
+    </script>
+</body>
+</html>

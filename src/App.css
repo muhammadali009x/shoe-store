@@ -1,0 +1,23 @@
+.Links{
+  text-decoration: none;
+  color: ivory;
+  font-weight: bold;
+  padding: 10px;
+}
+.Links:hover{
+    text-decoration: underline;
+}
+.formContainer{
+  background-color: #fff;
+  box-shadow: 0 0 10px gray;
+  width: 20;
+}
+.menuLinks{
+  color:black;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+.menuLinks:hover{
+    text-decoration: underline;
+}

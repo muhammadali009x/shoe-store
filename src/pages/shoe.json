@@ -1,0 +1,33 @@
+[    
+    {
+        "id": "REEBOK0001",
+        "name":"REEBOK NANO X SHOES ",
+        "img":"https://assets.reebok.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/a9961a2f99e2437e96a9ab360155ee4a_9366/Reebok_Nano_X_Shoes_Black_FV6672_01_standard.jpg",
+        "slug": "nano-x-shoes",
+        "price" : "$136"
+    },
+    {
+        "id": "REEBOK0002",
+        "name":"REEBOK LEATHER LEGACY SHOES ",
+        "img":"http://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/336f1fe03acf4c61b02fabb101757655_9366/Classic_Leather_Legacy_Shoes_White_FY7432_01_standard.jpg",
+        "slug": "leather-legacy-shoes"
+    },
+    {
+        "id": "REEBOK0003",
+        "name":"REEBOK ZIG KINETICA SHOES ",
+        "img":"https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/aacee730cb554a86b85aabb30115090c_9366/Zig_Kinetica_Shoes_Black_FW5286_01_standard.jpg",
+        "slug": "zig-kinetica-shoes"
+    },
+    {
+        "id": "REEBOK0004",
+        "name":"REEBOK LEATHER LEGACY SHOES",
+        "img":"https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/d763f3d2a093483889f4abb200698d32_9366/Classic_Leather_Legacy_Shoes_Black_FY7377_01_standard.jpg",
+        "slug": "classic-leather-legacy-shoes"
+    },
+    {
+        "id": "REEBOK0005",
+        "name":"INSTAPUMP FURY OG SHOES",
+        "img":"https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/9b66229c5514412ba1f1ac680150d56c_9366/Instapump_Fury_OG_Shoes_Black_GZ8632_01_standard.jpg",
+        "slug": "instapump-fury-og-shoes"
+    }
+]

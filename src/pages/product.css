@@ -1,0 +1,18 @@
+.productsPageBody {
+    margin: 0px 20px 0px 20px;
+}
+.shoeEachItems{
+    margin-top: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    color: black
+}
+.shoeEachItems:hover{
+    border: 1px solid blue;
+    background-color: rgb(204, 227, 241);
+}
+.shoeItems{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
